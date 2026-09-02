@@ -1,28 +1,37 @@
-name: Generate Snake Animation
+name: generate animated snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
+    - cron: "0 */12 * * *"   # runs every 12 hours
   workflow_dispatch: {}
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: generate snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: hassanraza352
+          # "outputs" below fixes the black-background/invisible-dots issue:
+          # - the plain svg uses the default light palette (light bg, dark dots)
+          # - the "-dark" svg now explicitly uses the "github-dark" palette,
+          #   which pairs a proper dark-grey background (#0d1117) with bright
+          #   green dot colors that are actually visible, instead of a pure
+          #   black background with dots too dark to see against it.
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push snake animation to output branch
+      - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

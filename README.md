@@ -1,11 +1,14 @@
 <div align="center">
 
 <!-- ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Hassan%20Raza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,50:2c3e50,100:414345&height=250&section=header&text=Hassan%20Raza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=55&descSize=18"/>
+
+<!-- CODING VIBE GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+there%2C+I'm+Hassan+Raza+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript+%7C+Docker;Also+into+C%2B%2B+%26+DSA;Looking+for+Competitive+Friends+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=D3D3D3&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+there%2C+I'm+Hassan+Raza+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript+%7C+Docker;Also+into+C%2B%2B+%26+DSA;Looking+for+Competitive+Friends+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,10 +18,10 @@
   <a href="https://www.linkedin.com/in/hassan-raza-7abb803ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="https://wa.me/923196275039"> target="_blank">
+  <a href="https://wa.me/923196275039" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:PASTE-YOUR-EMAIL-HERE" target="_blank">
+  <a href="mailto:mhassanr715@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -27,7 +30,7 @@
 
 <!-- VISITOR COUNTER + PROFILE VIEWS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hassanraza352&label=Profile%20Views&color=0e75b6&style=flat" alt="hassanraza352" />
+  <img src="https://komarev.com/ghpvc/?username=hassanraza352&label=Profile%20Views&color=2c3e50&style=flat" alt="hassanraza352" />
   <img src="https://img.shields.io/github/followers/hassanraza352?label=Followers&style=social" />
 </div>
 
@@ -87,20 +90,20 @@ fun_fact: I turn ☕ into 💻 code, one commit at a time
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanraza352&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanraza352&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanraza352&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanraza352&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanraza352&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanraza352&theme=github-dark-noBg&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanraza352&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanraza352&theme=github-compact&hide_border=true" width="90%"/>
 
 </div>
 
@@ -118,36 +121,12 @@ fun_fact: I turn ☕ into 💻 code, one commit at a time
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hassanraza352&theme=algolia&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
 ### 💻 LeetCode Stats
 
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/Hassanraza11?theme=dark&font=baloo2&ext=heatmap" />
 
-
-</div>
-
----
-
-
-### 🌌 Coding Vibe
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="90%" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
 ---
@@ -156,8 +135,8 @@ fun_fact: I turn ☕ into 💻 code, one commit at a time
 
 ### 🤝 Let's Connect & Build Something Great
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=550&lines=Always+open+to+collaborate+%F0%9F%A4%9D;Let's+build+something+amazing+together+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=600&color=D3D3D3&center=true&vCenter=true&width=550&lines=Always+open+to+collaborate+%F0%9F%A4%9D;Let's+build+something+amazing+together+%F0%9F%9A%80" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414345,50:2c3e50,100:232526&height=120&section=footer"/>
 
 </div>
